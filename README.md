@@ -4,7 +4,7 @@ I have decided to dive into data by starting my journey on Deep Learning & Machi
 
 Below are my current Specializations & Certifications : - 
 
-🌱 Microsoft: Azure Solutions Architect Expert 
+🌱 Microsoft: Azure Solutions Architect Expert
 🌱The Open Group:  Togaf 9 Foundation Certified  
 🌱Scrum Alliance: CSM
 
