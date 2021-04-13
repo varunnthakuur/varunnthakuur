@@ -2,7 +2,7 @@
 
 I have decided to dive into data by starting my journey on Deep Learning & Machine Learning.
 
-Below are my current Specializations & Certifications : -
+Below are my current Specializations & Certifications : - 
 Microsoft: Azure Solutions Architect Expert
 The Open Group:  Togaf 9 Foundation Certified 
 Scrum Alliance: CSM
