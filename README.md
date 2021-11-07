@@ -4,7 +4,9 @@ I have decided to dive into data by starting my journey on Deep Learning & Machi
 
 Below are my current Specializations & Certifications : - 
 
-🌱 Microsoft: Azure Solutions Architect Expert
+🌱 Microsoft: Azure Solutions Architect Expert (AZ-303 & AZ-304)
+
+🌱 Microsoft: Azure Data Engineer (DP - 203)
 
 🌱The Open Group:  Togaf 9 Foundation Certified  
 
