@@ -1,22 +1,24 @@
-- 👋 Hi, I’m Varun Thakur ! 
+- 👋 Hi, I’m Varun Thakur !
 
-I have decided to dive into data by starting my journey on Deep Learning & Machine Learning.
+Currently working as a Cloud Architect(Cloud Strategic Advisor) with total experience of 16.5+ years including 7+ years in Microsoft Azure. 
 
-Below are my current Specializations & Certifications : - 
+My Certifications: -
+• Microsoft - Azure Solutions Architect Expert (AZ-303 & AZ-304 | AZ-305)
+• Microsoft - Azure Data Engineer (DP-203)
+• Microsoft - Azure AI Fundamental (AI-900)
+• Enterprise Architect: TOGAF 9 Foundation
+• Agile - SCRUM Alliance CSM
 
-🌱 Microsoft: Azure Solutions Architect Expert (AZ-303 & AZ-304)
+I am responsible for strategically leading cloud initiatives as a cloud architect, transitioning on-premises applications to the Azure cloud. 
+ 
+- Data strategy: Designed a centralized datastore to resolve data silo issues with governance. 
+- Cloud project: Developed a framework for setting up the cloud environment, allowing multiple applications to coexist within a single cloud account during transitional phases. 
+- Cloud capabilities: Built POCs and MVPs to advocate the best cloud practice, educate development teams and drive development project initiatives. 
+- Risk and compliance: Ensure compliance with regulations, data privacy, and security standards. 
+- DevOps CICD: Implemented GitHub repos and actions for end-to-end CICD setup with security tools integrations
 
-🌱 Microsoft: Azure Data Engineer (DP - 203)
 
-🌱The Open Group:  Togaf 9 Foundation Certified  
-
-🌱Scrum Alliance: CSM
-
-- 👀 I’m interested in #Azure #Data #ML #DeepLearning 
-- 🌱 I’m currently learning #Azure #Data #ML #DeepLearning 
-- 💞️ I’m looking to collaborate on #Data, #ML, #DeepLearning projects
 - 📫 You can reach me via LinkedIn on https://www.linkedin.com/in/varunthakur/
-
 
 <!---
 varunnthakuur/varunnthakuur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
