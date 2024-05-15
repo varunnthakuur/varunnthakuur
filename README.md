@@ -3,11 +3,11 @@
 Currently working as a Cloud Architect(Cloud Strategic Advisor) with total experience of 16.5+ years including 7+ years in Microsoft Azure. 
 
 My Certifications: -
-• Microsoft - Azure Solutions Architect Expert (AZ-303 & AZ-304 | AZ-305)
-• Microsoft - Azure Data Engineer (DP-203)
-• Microsoft - Azure AI Fundamental (AI-900)
-• Enterprise Architect: TOGAF 9 Foundation
-• Agile - SCRUM Alliance CSM
+- Microsoft - Azure Solutions Architect Expert (AZ-303 & AZ-304 | AZ-305)
+- Microsoft - Azure Data Engineer (DP-203)
+- Microsoft - Azure AI Fundamental (AI-900)
+- Enterprise Architect: TOGAF 9 Foundation
+- Agile - SCRUM Alliance CSM
 
 I am responsible for strategically leading cloud initiatives as a cloud architect, transitioning on-premises applications to the Azure cloud. 
  
