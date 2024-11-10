@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Varun Thakur !
 
-Currently working as a Cloud Architect(Cloud Strategic Advisor) with total experience of 16.5+ years including 7+ years in Microsoft Azure. 
+Currently working as a Cloud Architect(Cloud Strategic Advisor), bringing around 17 years of experience, including more than 8 years specializing in Microsoft Azure. I have successfully planned, designed, and developed critical business applications leveraging Microsoft Azure cloud technology.
 
 My Certifications: -
 - Microsoft - Azure Solutions Architect Expert (AZ-303 & AZ-304 | AZ-305)
