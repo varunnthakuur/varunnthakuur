@@ -1,13 +1,12 @@
 - 👋 Hi, I’m Varun Thakur !
 
-Currently working as a Cloud Architect(Cloud Strategic Advisor), bringing around 17 years of experience, including more than 8 years specializing in Microsoft Azure. I have successfully planned, designed, and developed critical business applications leveraging Microsoft Azure cloud technology.
+Presently employed at Optum (United Health Group) as a Senior Architect, bringing around 17 years of experience, including more than 8 years specializing in Microsoft Azure. I have successfully planned, designed, and developed critical business applications leveraging Microsoft Azure cloud technology.
 
-My Certifications: -
-- Microsoft - Azure Solutions Architect Expert (AZ-303 & AZ-304 | AZ-305)
-- Microsoft - Azure Data Engineer (DP-203)
-- Microsoft - Azure AI Fundamental (AI-900)
-- Enterprise Architect: TOGAF 9 Foundation
-- Agile - SCRUM Alliance CSM
+Certifications : -
+-  Microsoft: Azure Solutions Architect Expert (AZ-303 & AZ-304 | AZ-305) | Azure Data Engineer (DP-203) | AI-900
+-  Databricks: Databricks Certified Data Engineer Professional
+-  Enterprise Architect: TOGAF 9 Foundation
+-  Agile: SCRUM Alliance CSM
 
 I am responsible for strategically leading cloud initiatives as a cloud architect, transitioning on-premises applications to the Azure cloud. 
  
